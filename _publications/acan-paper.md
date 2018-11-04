@@ -2,7 +2,7 @@
 title: "Prosocial or Selfish? Agents with different behaviors for Contract Negotiation using Reinforcement Learning"
 collection: publications
 permalink: /publications/acan-paper
-venue: "The 11th International Workshop on Automated Negotiations held in conjunction with IJCAI/ECAI 2018"
+venue: "The 11th International Workshop on Automated Negotiations held in conjunction with IJCAI/ECAI"
 date: 2018-07-14
 citation: '<b>Vishal Sunder</b>, Lovekesh Vig, Arnab Chatterjee, Gautam Shroff. <i>The 11th International Workshop on Automated Negotiations</i> <b>ACAN 2018.</b>'
 ---  
