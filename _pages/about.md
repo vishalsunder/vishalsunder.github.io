@@ -7,12 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-<p align="center">
-  <img src="https://github.com/vishalsunder.png" alt="Photo" style="width: 450px;"/> 
-</p>
-
----
 layout: page
 published: true
 ---
