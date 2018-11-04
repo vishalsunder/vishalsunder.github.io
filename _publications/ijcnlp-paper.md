@@ -2,7 +2,7 @@
 title: "Information Bottleneck Inspired Method for Chat Text Segmentation"
 collection: publications
 permalink: /publications/ijcnlp-paper
-venue: "IJCNLP 2017"
+venue: "IJCNLP"
 date: 2017-11-28
 citation: '<b>Vishal Sunder</b>*, Mohit Yadav* (equal contribution), Lovekesh Vig, Gautam Shroff. <i>The 8th International Joint Conference on Natural Language Processing.</i> <b>IJCNLP 2017</b>.'
 ---  
