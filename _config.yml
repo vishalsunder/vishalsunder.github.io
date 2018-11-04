@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lantao Yu"
+title                    : "Vishal Sunder"
 title_separator          : "-"
-name                     : &name "Lantao Yu"
-description              : &description "PhD student, Computer Science Department, Stanford University"
-url                      : https://lantaoyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Vishal Sunder"
+description              : &description "Researcher, TCS Innovation Labs, Delhi"
+url                      : https://vishalsunder.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "LantaoYu/lantaoyu.github.io"
+repository               : "vishalsunder/vishalsunder.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lantao Yu"
-  avatar           : "lantaoyu.jpg"
-  bio              : "PhD student, Computer Science Department, Stanford University"
-  location         : "Stanford, California"
+  name             : "Vishal Sunder"
+  avatar           : "https://github.com/vishalsunder.png"
+  bio              : "Researcher, TCS Innovation Labs, Delhi"
+  location         : "Delhi, India"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en"
-  email            : "lantaoyu@hotmail.com"
+  googlescholar    : "https://scholar.google.co.in/citations?user=hBbYJnIAAAAJ&hl=en"
+  email            : "sundervishal26@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "LantaoYu"
+  github           : "vishalsunder"
   google_plus      :
   keybase          :
   instagram        : 
