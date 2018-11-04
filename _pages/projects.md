@@ -27,7 +27,7 @@ __Introduction:__  Given a set of product attributes, the task was twofold. Firs
 * An attentive pooling approach was used to augment the learning of traditional CNNs and LSTMs for the given task along with LightGBM for shallow learning.
 * Findings showed that an ensemble of these approaches do a better job than using them alone suggesting that the results of the deep and shallow approach are highly complementary.
 
-[Report](vishalsunder.github.io/files/cikm-data-challenge.pdf)
+[Report](https://vishalsunder.github.io/files/cikm-data-challenge.pdf)
 
 ## Information Bottleneck Inspired Method For Chat Text Segmentation ##
 
