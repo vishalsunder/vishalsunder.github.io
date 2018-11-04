@@ -17,6 +17,8 @@ __Introduction:__ Automating the process of contract negotiation is important no
 * Modeled selfish and prosocial behavior to varying degrees in these agents and also trained a Meta agent with an ensemble of these behaviors.
 * Results demonstrated that the agents are able to hold their own against human players and that the meta agent is able to reasonably emulate human behavior.
 
+[Paper](https://vishalsunder.github.io/files/acan_arxiv.pdf)
+
 ## An Ensemble of Deep and Shallow Learning to predict the Quality of Product Titles (CIKM-2017 data challenge) ##
 
 _Self-mentored and co-worked with a teammate_
@@ -38,6 +40,8 @@ __Introduction:__ The task was to separate discussions on online chat forums int
 * Developed a novel technique for segmenting chat conversations using the Information Bottleneck method, augmented with sequential continuity constraints.
 * Utilized critical non-textual clues such as time between two consecutive posts and people mentions within the posts for effective segmentation.
 * Experiments demonstrated that our proposed method yields an absolute (relative) improvement of as high as 3.23% (11.25%).
+
+[Paper](https://vishalsunder.github.io/files/ijcnlp2017.pdf)
 
 # Undergrad Projects #
 
