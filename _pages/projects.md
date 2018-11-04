@@ -27,7 +27,7 @@ __Introduction:__  Given a set of product attributes, the task was twofold. Firs
 * An attentive pooling approach was used to augment the learning of traditional CNNs and LSTMs for the given task along with LightGBM for shallow learning.
 * Findings showed that an ensemble of these approaches do a better job than using them alone suggesting that the results of the deep and shallow approach are highly complementary.
 
-[Report](https://arxiv.org/pdf/1804.01000.pdf)
+[Report](vishalsunder.github.io/files/cikm-data-challenge.pdf)
 
 ## Information Bottleneck Inspired Method For Chat Text Segmentation ##
 
@@ -51,7 +51,7 @@ __Introduction:__ Mason’s Gain Formula is a method for finding transfer functi
 * Implemented the algorithm in C++ and developed a package for the same.
 * This project was funded by the Design and Innovation Hub (DIH), IIT-BHU.
 
-[Code](https://github.com/vishalsunder/MasonGain) and [Report](https://github.com/vishalsunder/MasonGain/blob/master/REPORT_DIH.pdf)
+[Code](https://github.com/vishalsunder/MasonGain) and [Report](https://vishalsunder.github.io/files/REPORT_DIH.pdf)
 
 ## Face Recognition using Principal Component Analysis (PCA) and Neural Network ##
 
@@ -62,3 +62,5 @@ __Introduction:__ The aim was to build a package which can be used for classifyi
 * Obtained reduced set of features for a face image by applying PCA on a set of training images from the ORL face dataset.
 * Trained a 2 layer neural network using the reduced set of features as input to predict the identity of a face. Used Matlab for implementation.
 * Successfully classified 40 subjects achieving an accuracy of 97.5%.
+
+[Code](https://github.com/vishalsunder/PCA-for-face-recognition)
