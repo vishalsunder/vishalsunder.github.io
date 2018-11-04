@@ -4,10 +4,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-### 2018
 
-1. __V. Sunder__, L. Vig, A. Chatterjee, G. Shroff: _Prosocial or Selfish? Agents with different behaviors for Contract Negotiation using Reinforcement Learning_; Proceedings of the 11th International Workshop on Automated Negotiations held in conjunction with ___IJCAI/ECAI 2018___ [(Paper)](https://vishalsunder.github.io/files/acan_arxiv.pdf)
+## 2017
 
-### 2017
+<b>[Information Bottleneck Inspired Method For Chat Text Segmentation](http://vishalsunder.github.io/_publications/ijcnlp-paper.md)</b> <br> <b>Vishal Sunder</b>, Mohit Yadav, Lovekesh Vig, Gautam Shroff. <i>IJCNLP 2017</i>
 
-1. __V. Sunder__, M. Yadav, L. Vig, G. Shroff: _Information Bottleneck Inspired Method for Chat Text Segmentation_; Proceedings of the Eighth International Joint Conference on Natural Language Processing (___IJCNLP 2017___), pages 194-203 [(Paper)](https://vishalsunder.github.io/files/ijcnlp2017.pdf)
+## 2018
+
+<b>[Prosocial or Selfish? Agents with different behaviors for Contract Negotiation using Reinforcement Learning ](http://vishalsunder.github.io/_publications/acan-paper.md)</b><br>
+<b>Vishal Sunder</b>, Lovekesh Vig, Arnab Chatterjee, Gautam Shroff. <i>The 11th International Workshop on Automated Negotiations held in conjunction with IJCAI/ECAI 2018</i>.
