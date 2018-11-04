@@ -7,9 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-layout: page
-published: true
----
 
 I am a Researcher at TCS Innovation Labs, Delhi, where I work in the Deep Learning and Artificial Intelligence group. I am supervised by [Dr. Gautam Shroff](https://www.linkedin.com/in/gautam-shroff-066901/) and [Dr. Lovekesh Vig](https://sites.google.com/site/lovekeshhome/).
 
