@@ -18,7 +18,7 @@ Recently, I have been fascinated by the possibility of grounded language emergen
 
 Before joining TCS Innovation Labs, I was an undergraduate student of Electrical Engineering in IIT-BHU, Varanasi from 2012-2016. Here I worked under the supervision of [Dr. Gopal Sharma](https://www.iitbhu.ac.in/dept/eee/people/gsharmaeee).
 
-Apart from work, I am also interested in Yoga and Meditation.
+Apart from work, I am also interested in Yoga and Meditation. I am a registered practitioner of the YSS techniques of Yoga. Find out more [here](https://www.yssofindia.org/meditation/The-Kriya-Yoga-Path-of-Meditation-Yogoda-Satsanga-Society).
 
 ### News:
 * June 2018: My paper "Prosocial or Selfish? Agents with different behaviors for Contract Negotiation using Reinforcement Learning" accepted at the 11th ACAN workshop in IJCAI 2018.
