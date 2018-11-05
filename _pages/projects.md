@@ -25,7 +25,7 @@ _Self-mentored and co-worked with a teammate_
 
 __Introduction:__  Given a set of product attributes, the task was twofold. First, to predict whether the product title is ’Clear’ and second whether it is ’Concise’.
 
-* Developed an ensemble framework of Deep and Shallow learning for predicting the Clarity and Conciseness of the titles of marketed products.
+* Developed an ensemble framework of Deep and Shallow learning.
 * An attentive pooling approach was used to augment the learning of traditional CNNs and LSTMs for the given task along with LightGBM for shallow learning.
 * Findings showed that an ensemble of these approaches do a better job than using them alone suggesting that the results of the deep and shallow approach are highly complementary.
 
@@ -51,7 +51,7 @@ _Mentor: Dr Gopal Sharma (Dept. of Electrical Engg., IIT-BHU)_
 
 __Introduction:__ Mason’s Gain Formula is a method for finding transfer function of a linear signal flow graph.
 
-* Developed a robust algorithm to implement Mason’s Gain Formula for finding the transfer function of a linear signal flow graph.
+* Developed a robust algorithm to implement Mason’s Gain Formula.
 * Implemented the algorithm in C++ and developed a package for the same.
 * This project was funded by the Design and Innovation Hub (DIH), IIT-BHU.
 
