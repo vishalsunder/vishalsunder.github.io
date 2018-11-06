@@ -29,7 +29,7 @@ __Introduction:__  Given a set of product attributes, the task was twofold. Firs
 * An attentive pooling approach was used to augment the learning of traditional CNNs and LSTMs for the given task along with LightGBM for shallow learning.
 * Findings showed that an ensemble of these approaches do a better job than using them alone suggesting that the results of the deep and shallow approach are highly complementary.
 
-[Report](https://vishalsunder.github.io/files/cikm-data-challenge.pdf)
+[Code](https://github.com/vishalsunder/CIKM-AnalytiCup-2017-Lazada-Product-Title-Quality-Challenge) and [Report](https://vishalsunder.github.io/files/cikm-data-challenge.pdf)
 
 ## Knowledge Extraction for FAQ ##
 
