@@ -31,6 +31,18 @@ __Introduction:__  Given a set of product attributes, the task was twofold. Firs
 
 [Report](https://vishalsunder.github.io/files/cikm-data-challenge.pdf)
 
+## Knowledge Extraction for FAQ ##
+
+_Mentors: Dr. Lovekesh Vig and Dr. Gautam Shroff (TCS Research, New Delhi)_
+
+__Introduction:__ The task was to develop an artiicial agent for retrieving relevant parts of a master document (company's policy document) for assisting human agent in preparing the FAQ list.
+
+* Trained a Siamese LSTM network which tries to align questions and their corresponding answers in a high dimensional space. The available FAQ list was utilized for training the network.
+
+* The resulting network not only learns to align the question not only to its answer but also to its relevant section in the master document.
+
+* The model was tested on a new (updated) master document and achieved a Mean Reciprocal Rank (MRR) of 0.70.
+
 ## Information Bottleneck Inspired Method For Chat Text Segmentation ##
 
 _Mentors: Dr. Lovekesh Vig and Dr. Gautam Shroff (TCS Research, New Delhi)_
