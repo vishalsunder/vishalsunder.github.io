@@ -1,5 +1,5 @@
 ---
-title: "RNNSurv: A Deep Learning Approach to Recurrent Event Survival Analysis with Competing Risks"
+title: "A Deep Learning Approach to Recurrent Event Survival Analysis with Competing Risks"
 collection: publications
 permalink: /publications/pakdd-paper
 venue: "PAKDD"
