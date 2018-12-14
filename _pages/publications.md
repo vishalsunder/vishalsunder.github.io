@@ -4,6 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2019
+
+<b>[RNNSurv: A Deep Learning Approach to Recurrent Event Survival Analysis with Competing Risks](http://vishalsunder.github.io/publications/pakdd-paper)</b><br>
+Garima Gupta, <b>Vishal Sunder</b>, Ranjitha Prasad, Gautam Shroff. <i>The 23rd Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-2019)</i>.
+
 ## 2018
 
 <b>[Prosocial or Selfish? Agents with different behaviors for Contract Negotiation using Reinforcement Learning ](http://vishalsunder.github.io/publications/acan-paper)</b><br>
