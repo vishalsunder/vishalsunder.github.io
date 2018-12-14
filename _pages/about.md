@@ -21,6 +21,6 @@ Before joining TCS Innovation Labs, I was an undergraduate student of Electrical
 Apart from work, I am also interested in Yoga and Meditation. I am a registered practitioner of the YSS techniques of Yoga. Find out more [here](https://www.yssofindia.org/meditation/The-Kriya-Yoga-Path-of-Meditation-Yogoda-Satsanga-Society).
 
 ### News:
-* December 2018: Our paper "RNNSurv: A Deep Learning Approach to Recurrent Event Survival Analysis with Competing Risks" accepted at the 23rd Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2019)
+* December 2018: Our paper "A Deep Learning Approach to Recurrent Event Survival Analysis with Competing Risks" accepted at the 23rd Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2019)
 * June 2018: Our paper "Prosocial or Selfish? Agents with different behaviors for Contract Negotiation using Reinforcement Learning" accepted at the 11th ACAN workshop in IJCAI 2018.
 * September 2017: Our paper "Information Bottleneck Inspired Method For Chat Text Segmentation" accepted at the Eighth International Joint Conference on Natural Language Processing (IJCNLP 2017).
