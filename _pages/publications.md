@@ -6,7 +6,7 @@ author_profile: true
 
 ## 2019
 
-<b>[A Deep Learning Approach to Recurrent Event Survival Analysis with Competing Risks](http://vishalsunder.github.io/publications/pakdd-paper)</b><br>
+<b>[CRESA: A Deep Learning Approach to Competing Risk Recurrent Event Survival Analysis](http://vishalsunder.github.io/publications/pakdd-paper)</b><br>
 Garima Gupta, <b>Vishal Sunder</b>, Ranjitha Prasad, Gautam Shroff. <i>The 23rd Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-2019)</i>.
 
 ## 2018
