@@ -16,4 +16,4 @@ Garima Gupta, <b>Vishal Sunder</b>, Ranjitha Prasad, Gautam Shroff. <i>The 23rd 
 
 ## 2017
 
-<b>[Information Bottleneck Inspired Method For Chat Text Segmentation](http://vishalsunder.github.io/publications/ijcnlp-paper)</b> <br> <b>Vishal Sunder</b>, Mohit Yadav, Lovekesh Vig, Gautam Shroff. <i>IJCNLP 2017</i>
+<b>[Information Bottleneck Inspired Method For Chat Text Segmentation](http://vishalsunder.github.io/publications/ijcnlp-paper)</b> <br> <b>Vishal Sunder</b>, Mohit Yadav, Lovekesh Vig, Gautam Shroff. <i>The 8th International Joint Conference on Natural Language Processing (IJCNLP-2017)</i>
