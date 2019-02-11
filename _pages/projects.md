@@ -7,6 +7,29 @@ author_profile: true
 
 # At TCS Research #
 
+## One-shot Information Extraction from Document Images using Neuro-Deductive Program Synthesis ##
+
+_Mentors: Dr. Ashwin Srinivasan (BITS Pilani, Goa), Dr. Lovekesh Vig and Dr. Gautam Shroff (TCS Research, New Delhi)_
+
+__Introduction:__ The task was information extraction from document images in a data-efficient manner.
+
+* Used pre-trained Deep Learning models for reading document images and converting them into a structured form by populating a predefined database schema.
+* Entity-specific extraction programs were learnt using proofs constructed by a meta-interpreter in a manner similar to explanation-based generalization.
+* In most cases a single training example together with a noisy-clone of itself suffices to learn a program-set that generalizes well on test documents.
+
+
+## CRESA: A Deep Learning Approach to Competing Risks, Recurrent Event Survival Analysis ##
+
+_Mentors: Dr. Ranjitha Prasad (TCS Research, New Delhi)_
+
+__Introduction:__ The task was to infer survival-time from time-to-event data in a _recurrent event_ scenario in the presence of one or more _competing risks_.
+
+* Developed an _LSTM-based_ model to tackle the recurrent event scenario of the survival analysis.
+* Modelled a recurrent time concordance-index based loss function to train the neural network.
+* Demonstrated a superior predictive performance of the proposed approach (single and multiple risk scenarios) as compared to traditional model-based approaches, and deep learning based approaches for synthetic and state-of-the-art public datasets.
+
+[Paper](https://vishalsunder.github.io/files/CRESA.pdf)
+
 ## Agents with different behaviors for Contract Negotiation using Reinforcement Learning ##
 
 _Mentors: Dr. Lovekesh Vig and Dr. Arnab Chatterjee (TCS Research, New Delhi)_
