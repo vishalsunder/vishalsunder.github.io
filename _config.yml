@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Vishal Sunder"
 title_separator          : "-"
 name                     : &name "Vishal Sunder"
-description              : &description "Researcher, TCS Innovation Labs, Delhi"
+description              : &description "PhD student, The Ohio State University"
 url                      : https://vishalsunder.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vishalsunder/vishalsunder.github.io"
@@ -79,11 +79,11 @@ analytics:
 author:
   name             : "Vishal Sunder"
   avatar           : "https://github.com/vishalsunder.png"
-  bio              : "Researcher, TCS Innovation Labs, Delhi"
-  location         : "Delhi, India"
+  bio              : "PhD student, The Ohio State University"
+  location         : "Columbus, Ohio"
   employer         : 
   googlescholar    : "https://scholar.google.co.in/citations?user=hBbYJnIAAAAJ&hl=en"
-  email            : "sundervishal26@gmail.com"
+  email            : "sunder.9@osu.edu"
   uri              : 
   bitbucket        :
   codepen          :
