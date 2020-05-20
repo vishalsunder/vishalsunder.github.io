@@ -24,8 +24,5 @@ main:
   - title: "Hobbies"
     url: /hobbies/ 
     
-  - title: "Courses"
-    url: /courses/ 
-    
   # - title: "Guide"
     # url: /markdown/
