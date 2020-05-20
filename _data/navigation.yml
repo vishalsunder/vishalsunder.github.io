@@ -22,7 +22,10 @@ main:
   #   url: /portfolio/
     
   - title: "Hobbies"
-    url: /hobbies/  
+    url: /hobbies/ 
+    
+  - title: "Courses"
+    url: /courses/ 
     
   # - title: "Guide"
     # url: /markdown/
