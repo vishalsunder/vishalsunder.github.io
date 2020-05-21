@@ -9,7 +9,7 @@ author_profile: true
 ## CSE-5243 Introduction to Data Mining (Spring 2020) ##
 
 * Classification of text data (2nd best result in the class) [Report](https://vishalsunder.github.io/files/class_5243.pdf)
-* Clustering of text data (Best result in the class; Best report award ) [Report](https://vishalsunder.github.io/files/clus_5243.pdf)
+* Clustering of text data (Best result in the class; Best report award) [Report](https://vishalsunder.github.io/files/clus_5243.pdf)
 
 # At TCS Research #
 
