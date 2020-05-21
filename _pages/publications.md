@@ -5,6 +5,9 @@ author_profile: true
 ---
 
 ## 2019
+<b>[One-shot Information Extraction from Document Images using Neuro-Deductive Program Synthesis](http://vishalsunder.github.io/publications/progsyn-paper)</b><br>
+<b>Vishal Sunder</b>, Ashwin Srinivasan, Lovekesh Vig, Gautam Shroff, Rohit Rahul. <i>The 14th International Workshop on
+Neural-Symbolic Learning and Reasoning at IJCAI 2019</i>.
 
 <b>[CRESA: A Deep Learning Approach to Competing Risk Recurrent Event Survival Analysis](http://vishalsunder.github.io/publications/pakdd-paper)</b><br>
 Garima Gupta, <b>Vishal Sunder</b>, Ranjitha Prasad, Gautam Shroff. <i>The 23rd Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-2019)</i>.
