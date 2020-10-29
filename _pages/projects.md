@@ -11,6 +11,19 @@ author_profile: true
 * Classification of text data (2nd best result in the class) [Report](https://vishalsunder.github.io/files/class_5243.pdf)
 * Clustering of text data (Best result in the class; Best report award) [Report](https://vishalsunder.github.io/files/clus_5243.pdf)
 
+# At OSU #
+
+## Studying Ways to Efficiently Handle Class-Imbalance Issues in Closed-Domain Dialogue Systems ##
+_Mentor: Dr. Eric Fosler-Lussier_
+
+__Introduction:__ Due to the limited amount of data that can be realistically collected for specialized dialogue domains, the dataset becomes highly class-imbalanced to allow for fine-grained user queries.
+
+* Built a novel, model-agnostic end-to-end pairwise learning framework to tackle the said issue.
+* The framework combines a few-shot classification strategy with an interpolation based data-augmentation technique.
+* Achieved significant improvements in macro-F1 score for the Virtual Patient dialogue project.
+
+[Code](https://github.com/OSU-slatelab/vp-pairwise), [Paper](https://arxiv.org/pdf/2010.15090.pdf)
+
 # At TCS Research #
 
 ## One-shot Information Extraction from Document Images using Neuro-Deductive Program Synthesis ##
