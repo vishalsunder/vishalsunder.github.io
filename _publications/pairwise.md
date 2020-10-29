@@ -1,10 +1,10 @@
 ---
 title: "Handling Class Imbalance in Low-Resource Dialogue Systems by Combining Few-Shot Classification and Interpolation"
 collection: publications
-permalink: /publications/pairwise-paper
+permalink: /publications/pairwise
 venue: "Preprint"
 date:  
-citation: '<b>Vishal Sunder</b>, . <i>Submitted to ICASSP-2021</b>.'
+citation: '<b>Vishal Sunder</b>, Eric Fosler-Lussier <i>Submitted to ICASSP-2021</i>'
 ---  
 [[Preprint]](https://arxiv.org/pdf/2010.15090.pdf)
 
