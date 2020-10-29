@@ -5,7 +5,7 @@ author_profile: true
 ---
 ## 2020
 
-<b>[Handling Class Imbalance in Low-Resource Dialogue Systems by Combining Few-Shot Classification and Interpolation ](http://vishalsunder.github.io/publications/pairwise)</b> <br> <b>Vishal Sunder</b>, Eric Fosler-Lussier. <i>Submitted to ICASSP-2021</i>
+<b>[Handling Class Imbalance in Low-Resource Dialogue Systems by Combining Few-Shot Classification and Interpolation](http://vishalsunder.github.io/publications/pairwise)</b> <br> <b>Vishal Sunder</b>, Eric Fosler-Lussier. <i>Submitted to ICASSP-2021</i>
 
 
 ## 2019
