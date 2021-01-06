@@ -13,8 +13,6 @@ Prior to joining OSU, I was a Researcher at TCS Innovation Labs, Delhi, where I 
  
 From 2012-2016, I was an undergraduate student of Electrical Engineering in IIT-BHU, Varanasi. Here I worked under the supervision of [Dr. Gopal Sharma](https://www.iitbhu.ac.in/dept/eee/people/gsharmaeee).
 
-Apart from work, I am also interested in Yoga and Meditation. I am a registered practitioner of the YSS techniques of Yoga. Find out more [here](https://www.yssofindia.org/meditation/The-Kriya-Yoga-Path-of-Meditation-Yogoda-Satsanga-Society).
-
 ### News:
 * August 2019: I joined The Ohio State University as a PhD student!
 * May 2019: Our paper "One-shot Information Extraction from Document Images using Neuro-Deductive Program Synthesis" accepted at the 13th International Workshop on Neural-Symbolic Learning and Reasoning at IJCAI 2019.
