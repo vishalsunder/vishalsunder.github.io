@@ -11,7 +11,7 @@ I am a PhD student in the [Speech and Language Technologies Lab](https://osu-sla
  
 Prior to joining OSU, I was a Researcher at TCS Innovation Labs, Delhi, where I worked in the Deep Learning and Artificial Intelligence group. I was supervised by [Dr. Gautam Shroff](https://www.linkedin.com/in/gautam-shroff-066901/) and [Dr. Lovekesh Vig](https://sites.google.com/site/lovekeshhome/).
  
-From 2012-2016, I was an undergraduate student of Electrical Engineering in IIT-BHU, Varanasi. Here I worked under the supervision of [Dr. Gopal Sharma](https://www.iitbhu.ac.in/dept/eee/people/gsharmaeee).
+From 2012-2016, I was an undergraduate student of Electrical Engineering at IIT (BHU), Varanasi. Here I worked under the supervision of [Dr. Gopal Sharma](https://www.iitbhu.ac.in/dept/eee/people/gsharmaeee).
 
 ### News:
 * August 2019: I joined The Ohio State University as a PhD student!
