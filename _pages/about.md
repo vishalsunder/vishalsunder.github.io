@@ -16,7 +16,3 @@ From 2012-2016, I was an undergraduate student of Electrical Engineering at IIT 
 ### News:
 * January 2021: Our paper "Handling Class Imbalance in Low-Resource Dialogue Systems by Combining Few-Shot Classification and Interpolation" accepted at ICASSP-2021.
 * August 2019: I joined The Ohio State University as a PhD student!
-* May 2019: Our paper "One-shot Information Extraction from Document Images using Neuro-Deductive Program Synthesis" accepted at the 13th International Workshop on Neural-Symbolic Learning and Reasoning at IJCAI 2019.
-* December 2018: Our paper "CRESA: A Deep Learning Approach to Competing Risk Recurrent Event Survival Analysis" accepted at the 23rd Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2019).
-* June 2018: Our paper "Prosocial or Selfish? Agents with different behaviors for Contract Negotiation using Reinforcement Learning" accepted at the 11th ACAN workshop in IJCAI 2018.
-* September 2017: Our paper "Information Bottleneck Inspired Method For Chat Text Segmentation" accepted at the Eighth International Joint Conference on Natural Language Processing (IJCNLP 2017).
