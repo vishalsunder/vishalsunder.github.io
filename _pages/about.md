@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student in the [Speech and Language Technologies Lab](https://osu-slatelab.github.io/) at the Ohio State University. I am advised by [Dr. Eric Fosler-Lussier](https://efosler.github.io/). Broadly, my research interests include Dialog Systems and Language Understanding.
+I am a PhD student in the [Speech and Language Technologies Lab](https://osu-slatelab.github.io/) at the Ohio State University. I am advised by [Dr. Eric Fosler-Lussier](https://efosler.github.io/). Broadly, my research interests include Dialog Systems and Spoken Language Understanding.
  
 Prior to joining OSU, I was a Researcher at TCS Innovation Labs, Delhi, where I worked in the Deep Learning and Artificial Intelligence group. I was supervised by [Dr. Gautam Shroff](https://www.linkedin.com/in/gautam-shroff-066901/) and [Dr. Lovekesh Vig](https://sites.google.com/site/lovekeshhome/).
  
