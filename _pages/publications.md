@@ -9,7 +9,7 @@ author_profile: true
 
 <b>[Hallucination of speech recognition errors with sequence to sequence learning](https://arxiv.org/pdf/2103.12258.pdf)</b> Prashant Serai, Vishal Sunder, Eric Fosler-Lussier. <i>Submitted to TASLP</i>
 
-<b>[Handling Class Imbalance in Low-Resource Dialogue Systems by Combining Few-Shot Classification and Interpolation](http://vishalsunder.github.io/publications/pairwise)</b> <br> <b>Vishal Sunder</b>, Eric Fosler-Lussier. <i>ICASSP 2021</i>
+<b>[Handling Class Imbalance in Low-Resource Dialogue Systems by Combining Few-Shot Classification and Interpolation](https://arxiv.org/pdf/2010.15090.pdf)</b> <br> <b>Vishal Sunder</b>, Eric Fosler-Lussier. <i>ICASSP 2021</i>
 
 
 ## 2019
