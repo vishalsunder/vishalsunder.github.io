@@ -5,9 +5,9 @@ author_profile: true
 ---
 ## 2021
 
-<b>Building an ASR Error Robust Spoken Language Understanding System in a Highly Class-Imbalanced Scenario Without Speech Data</b> Vishal Sunder, Prashant Serai, Eric Fosler-Lussier. <i>Submitted to Interspeech 2021</i>
+<b>Building an ASR Error Robust Spoken Language Understanding System in a Highly Class-Imbalanced Scenario Without Speech Data</b> <br> Vishal Sunder, Prashant Serai, Eric Fosler-Lussier. <i>Submitted to Interspeech 2021</i>
 
-<b>[Hallucination of speech recognition errors with sequence to sequence learning](https://arxiv.org/pdf/2103.12258.pdf)</b> Prashant Serai, Vishal Sunder, Eric Fosler-Lussier. <i>Submitted to TASLP</i>
+<b>[Hallucination of speech recognition errors with sequence to sequence learning](https://arxiv.org/pdf/2103.12258.pdf)</b> <br> Prashant Serai, Vishal Sunder, Eric Fosler-Lussier. <i>Submitted to TASLP</i>
 
 <b>[Handling Class Imbalance in Low-Resource Dialogue Systems by Combining Few-Shot Classification and Interpolation](https://arxiv.org/pdf/2010.15090.pdf)</b> <br> <b>Vishal Sunder</b>, Eric Fosler-Lussier. <i>ICASSP 2021</i>
 
