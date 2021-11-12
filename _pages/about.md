@@ -14,6 +14,6 @@ Prior to joining OSU, I was a Researcher at TCS Innovation Labs, Delhi, where I 
 From 2012-2016, I was an undergraduate student of Electrical Engineering at IIT (BHU), Varanasi. Here I worked under the supervision of [Dr. Gopal Sharma](https://www.iitbhu.ac.in/dept/eee/people/gsharmaeee).
 
 ### News:
-* May 2021: Joining IBM Research, Yorktown Heights as an intern!
+* May 2021: Joining IBM Research, Yorktown Heights for a remote internship!
 * January 2021: Our paper "Handling Class Imbalance in Low-Resource Dialogue Systems by Combining Few-Shot Classification and Interpolation" accepted at ICASSP-2021.
 * August 2019: I joined The Ohio State University as a PhD student!
