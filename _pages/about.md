@@ -15,6 +15,7 @@ From 2012-2016, I was an undergraduate student of Electrical Engineering at IIT 
 
 ### News:
 * January 2022: Our paper titled "Towards End-to-End Integration of Dialog History for Improved Spoken Language Understanding" accepted at ICASSP-2022.
+* December 2021: Our journal article titled "Hallucination of speech recognition errors with sequence to sequence learning" to appear in the IEEE Transactions on Audio, Speech and Language Processing.
 * May 2021: Joining IBM Research, Yorktown Heights for a remote internship!
 * January 2021: Our paper titled "Handling Class Imbalance in Low-Resource Dialogue Systems by Combining Few-Shot Classification and Interpolation" accepted at ICASSP-2021.
 * August 2019: I joined The Ohio State University as a PhD student!
