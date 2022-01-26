@@ -3,9 +3,11 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.co.in/cit
 permalink: /publications/
 author_profile: true
 ---
-## 2021
+## 2022
 
 <b>Towards end-to-end integration of dialog history for improved spoken language understanding.</b> <br> Vishal Sunder, Samuel Thomas, Hong-Kwang J. Kuo, Jatin Ganhotra, Brian Kingsbury, Eric Fosler-Lussier. <i>To appear at ICASSP 2022</i>
+
+## 2021
 
 <b>[Hallucination of speech recognition errors with sequence to sequence learning](https://arxiv.org/pdf/2103.12258.pdf)</b> <br> Prashant Serai, Vishal Sunder, Eric Fosler-Lussier. <i>IEEE/ACM Transactions on Audio, Speech and Language Processing</i>
 
