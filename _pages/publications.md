@@ -5,7 +5,7 @@ author_profile: true
 ---
 ## 2022
 
-<b>[Tokenwise Contrastive Pretraining for Finer Speech-to-BERT Alignment in End-to-End Speech-to-Intent Systems](https://arxiv.org/pdf/2204.05188.pdf)</b> <br> Vishal Sunder, Eric Fosler-Lussier, Samuel Thomas, Hong-Kwang J. Kuo, Brian Kingsbury. <i>To appear at ICASSP 2022</i>
+<b>[Tokenwise Contrastive Pretraining for Finer Speech-to-BERT Alignment in End-to-End Speech-to-Intent Systems](https://arxiv.org/pdf/2204.05188.pdf)</b> <br> Vishal Sunder, Eric Fosler-Lussier, Samuel Thomas, Hong-Kwang J. Kuo, Brian Kingsbury. <i>INTERSPEECH 2022</i>
 
 <b>[Towards end-to-end integration of dialog history for improved spoken language understanding](https://arxiv.org/pdf/2204.05169.pdf)</b> <br> Vishal Sunder, Samuel Thomas, Hong-Kwang J. Kuo, Jatin Ganhotra, Brian Kingsbury, Eric Fosler-Lussier. <i>ICASSP 2022</i>
 
