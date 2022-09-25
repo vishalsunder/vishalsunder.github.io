@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student in the [Speech and Language Technologies Lab](https://osu-slatelab.github.io/) at the Ohio State University. I am advised by [Dr. Eric Fosler-Lussier](https://efosler.github.io/). My research interest is Deep Learning, specifically in it's application for End-to-End Speech Understanding in Spoken Dialog Systems. I have 5+ years of research experience in Machine Learning in industry and academia.
+I am a PhD student in the [Speech and Language Technologies Lab](https://osu-slatelab.github.io/) at the Ohio State University. I am advised by [Dr. Eric Fosler-Lussier](https://efosler.github.io/). My research interest is Deep Learning, specifically in it's application for End-to-End Speech Understanding in Spoken Dialog Systems. I have over six years of research experience in Machine Learning in industry and academia.
 
 
 ### News:
