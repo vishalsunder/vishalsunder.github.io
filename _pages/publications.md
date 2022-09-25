@@ -9,6 +9,9 @@ author_profile: true
 
 <b>[Towards end-to-end integration of dialog history for improved spoken language understanding](https://arxiv.org/pdf/2204.05169.pdf)</b> <br> Vishal Sunder, Samuel Thomas, Hong-Kwang J. Kuo, Jatin Ganhotra, Brian Kingsbury, Eric Fosler-Lussier. <i>ICASSP 2022</i>
 
+<b>[Building an ASR Error Robust Spoken Virtual Patient System in a Highly Class-Imbalanced Scenario Without Speech Data](https://arxiv.org/pdf/2204.05183.pdf)</b> <br> Vishal Sunder, Prashant Serai, Eric Fosler-Lussier. <i>Preprint</i>
+
+
 ## 2021
 
 <b>[Hallucination of speech recognition errors with sequence to sequence learning](https://arxiv.org/pdf/2103.12258.pdf)</b> <br> Prashant Serai, Vishal Sunder, Eric Fosler-Lussier. <i>IEEE/ACM Transactions on Audio, Speech and Language Processing</i>
