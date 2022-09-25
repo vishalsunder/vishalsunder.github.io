@@ -14,7 +14,7 @@ Prior to joining OSU in 2019, I was a Researcher at TCS Innovation Labs, Delhi, 
 From 2012-2016, I was an undergraduate student of Electrical Engineering at IIT (BHU), Varanasi. Here I worked under the supervision of [Dr. Gopal Sharma](https://www.iitbhu.ac.in/dept/eee/people/gsharmaeee).
 
 ### News:
+* June 2022: Our paper titled "Tokenwise Contrastive Pretraining for Finer Speech-to-BERT Alignment in End-to-End Speech-to-Intent Systems" accepted at INTERSPEECH-2022.
 * January 2022: Our paper titled "Towards End-to-End Integration of Dialog History for Improved Spoken Language Understanding" accepted at ICASSP-2022.
 * December 2021: Our journal article titled "Hallucination of speech recognition errors with sequence to sequence learning" to appear in the IEEE Transactions on Audio, Speech and Language Processing.
-* May 2021: Joining IBM Research, Yorktown Heights for a remote internship!
 * January 2021: Our paper titled "Handling Class Imbalance in Low-Resource Dialogue Systems by Combining Few-Shot Classification and Interpolation" accepted at ICASSP-2021.
