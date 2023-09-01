@@ -8,7 +8,7 @@ author_profile: true
 
 <b>[Fine-Grained Textual Knowledge Transfer to Improve RNN Transducers for Speech Recognition and Understanding](http://vishalsunder.github.io/files/ieee_rnnt_CR.pdf)</b> <br> <b>Vishal Sunder</b>, Samuel Thomas, Hong-Kwang J. Kuo, Brian Kingsbury, Eric Fosler-Lussier. <i>ICASSP 2023</i>
 
-<b>[End-to-End Word-Level Disfluency Detection and Classification in Children’s Reading Assessment](http://vishalsunder.github.io/files/ieee_kids_CR.pdf)</b> <br> Lavanya Venkatasubramaniam*, <b>Vishal Sunder</b>*, Eric Fosler-Lussier. (* means equal contribution) <i>ICASSP 2023</i>
+<b>[End-to-End Word-Level Disfluency Detection and Classification in Children’s Reading Assessment](http://vishalsunder.github.io/files/ieee_kids_CR.pdf)</b> <br> Lavanya Venkatasubramaniam*, <b>Vishal Sunder*</b>, Eric Fosler-Lussier. ( * means equal contribution) <i>ICASSP 2023</i>
 
 ## 2022
 
