@@ -3,7 +3,7 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
-## 2023
+## 2024
 <b>[End-to-End Real Time Tracking of Children's Reading with Pointer Network](http://vishalsunder.github.io/files/ICASSP_2024_11sep.pdf)</b> <br> <b>Vishal Sunder</b>, Beulah Karrolla, Eric Fosler-Lussier. <i>ICASSP 2024</i>
 
 ## 2023
