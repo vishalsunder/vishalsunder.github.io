@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2024
-<b>[End-to-End Real Time Tracking of Children's Reading with Pointer Network](http://vishalsunder.github.io/files/ICASSP_2024_11sep.pdf)</b> <br> <b>Vishal Sunder</b>, Beulah Karrolla, Eric Fosler-Lussier. <i>ICASSP 2024</i>
+<b>[End-to-End Real Time Tracking of Children's Reading with Pointer Network](http://vishalsunder.github.io/files/ICASSP_2024-CR.pdf)</b> <br> <b>Vishal Sunder</b>, Beulah Karrolla, Eric Fosler-Lussier. <i>ICASSP 2024</i>
 
 ## 2023
 <b>[ConvKT: Conversation-Level Knowledge Transfer for Context Aware End-to-End Spoken Language Understanding](http://vishalsunder.github.io/files/sunder23_interspeech.pdf)</b> <br> <b>Vishal Sunder</b>, Eric Fosler-Lussier, Samuel Thomas, Hong-Kwang J. Kuo, Brian Kingsbury. <i>INTERSPEECH 2023</i>
