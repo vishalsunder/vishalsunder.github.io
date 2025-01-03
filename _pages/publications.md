@@ -8,6 +8,7 @@ author_profile: true
 
 ## 2024
 <b>[Improving Transducer-Based Spoken Language Understanding with Self-Conditioned CTC and Knowledge Transfer](http://vishalsunder.github.io/files/SLT_2024-CR_sep11.pdf)</b> <br> <b>Vishal Sunder</b>, Eric Fosler-Lussier. <i>SLT 2024</i>
+
 <b>[End-to-End Real Time Tracking of Children's Reading with Pointer Network](http://vishalsunder.github.io/files/ICASSP_2024-CR.pdf)</b> <br> <b>Vishal Sunder</b>, Beulah Karrolla, Eric Fosler-Lussier. <i>ICASSP 2024</i>
 
 ## 2023
